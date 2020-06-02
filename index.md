@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/threelei/threelei.Github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/threelei/threelei.Github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 个人信息
+#### 姓名：申共磊，男
+#### （+86）173-3739-1720
+#### ThreeLei@outlook.com
+### 专业背景
+- 本科
+- 郑州大学--电子信息类
+- 专业前13%
+### 技能
+- 熟悉C语言编程，动手编程能力扎实，有几百道ACM习题练习经验
+- 熟悉HTML，基本掌握CSS，能独立制作个人网站
+### 校园活动
+1. 郑州大学乐途志愿队（2019.09-2020.07）
+- 外联部部长候选人&第十二届乐途志援队队长候选人
+- 准备活动物资，管理志愿者成员（约两千人）
+- 创造图书馆文明氛围，策划并完成“泛身书海，只爱墨香”，改善了图书馆学习环境
+2. 郑州大学文明学风督察
+- 2019年秋招
+-- 招募校招服务人员，联系同学参加校招服务并完成招募且增强大学同学友谊
